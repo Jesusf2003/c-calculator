@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/VSCodeProjects/CProjects/c-calculator/build",
+  "command": "C:\\msys64\\mingw32\\bin\\gcc.exe -IF:/VSCodeProjects/CProjects/c-calculator/src -g -std=c2x -o CMakeFiles\\calculator.dir\\src\\main.c.obj -c F:\\VSCodeProjects\\CProjects\\c-calculator\\src\\main.c",
+  "file": "F:\\VSCodeProjects\\CProjects\\c-calculator\\src\\main.c",
+  "output": "CMakeFiles\\calculator.dir\\src\\main.c.obj"
+}
+]
