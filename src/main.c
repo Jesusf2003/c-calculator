@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// simple calculator
 int main()
 {
     // declaring vars
