@@ -1,3 +1,0 @@
-F:/VSCodeProjects/CProjects/c-calculator/build/CMakeFiles/calculator.dir
-F:/VSCodeProjects/CProjects/c-calculator/build/CMakeFiles/edit_cache.dir
-F:/VSCodeProjects/CProjects/c-calculator/build/CMakeFiles/rebuild_cache.dir
